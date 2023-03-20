@@ -12,11 +12,11 @@ void dfs(int x, int y)
 
     if (x - 1 >= 0 && arr[x-1][y] == 1)        
         dfs(x-1, y);
-    else if (y - 1 >= 0 && arr[x][y-1] == 1)
+    if (y - 1 >= 0 && arr[x][y-1] == 1)
         dfs(x, y-1);
-    else if (x + 1 < M && arr[x+1][y] == 1)
+    if (x + 1 < M && arr[x+1][y] == 1)
         dfs(x+1, y);
-    else if (y + 1 < N && arr[x][y+1] == 1)
+    if (y + 1 < N && arr[x][y+1] == 1)
         dfs(x, y+1);
 }
 
@@ -45,6 +45,6 @@ int main()
                 }     
             }
         }
-        printf("%d\n", cnt);
+        printf("%d\n", cnt); 
     }
 }
