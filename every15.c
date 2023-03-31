@@ -1,3 +1,5 @@
+// 백준 s3 문제 2579 | 계단오르기
+
 #include <stdio.h>
 
 #define max(a, b) a > b ? a : b;

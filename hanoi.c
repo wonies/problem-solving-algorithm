@@ -2,6 +2,7 @@
 
 void hanoi(int a, int b, int n)
 {
+    printf("hanoi stack : {%d} {%d} {%d}\n", a, b, n);
     if (n==1)
     {
         printf("%d->%d\n", a, b);
@@ -15,7 +16,7 @@ void hanoi(int a, int b, int n)
 
 int main()
 {
-    int n = 3;
+    int n = 4;
     hanoi(1, 3, n);
     return 0;
 }

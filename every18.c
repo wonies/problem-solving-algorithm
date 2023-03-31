@@ -1,64 +1,76 @@
+//백준 2468 s1 문제 | 안전가옥
+
 #include <stdio.h>
 
 int n;
 int arr[101][101];
+int cpy[101][101];
 int dx[] = {-1, 1, 0, 0};
 int dy[] = {0, 0, -1, 1};
-int find[101];
-int cpyarr[101][101];
-
-void dfs(int x, int y, int find)
+int ans = -1;
+int cnt;
+void dfs(int x, int y)
 {
-    arr[x][y] -= 1;
+    cpy[x][y] = 0;
     for (int i=0; i<4; i++)
     {
         int nx = x + dx[i];
         int ny = y + dy[i];
-        if (nx >= 0 & ny >=0 && nx < n && ny < n && arr[nx][ny] > find)
-            dfs(nx, ny, find);
+        if (nx >= 0 && ny >=0 && nx < n && ny < n && cpy[nx][ny] != 0)
+            dfs(nx, ny);
 
     }
-
 }
 
-
-int main()
+void makecpy(int k)
 {
-    scanf("%d", &n);
-    int arr_max = -1;
     for (int i=0; i<n; i++)
     {
         for (int j=0; j<n; j++)
         {
-            scanf("%d", &arr[i][j]);
-            find[arr[i][j]]++;
-            // cpyarr[i][j] = arr[i][j];
-            if (find[arr[i][j]] > arr_max)
-                arr_max = find[arr[i][j]];
+            cpy[i][j] = arr[i][j];
+            if (cpy[i][j] <= k)
+                cpy[i][j] = 0;
         }
     }
+}
 
-    int cnt = 0;
-    int maxi = -2147000;
-    for (int k=arr_max; k>0; k--)
+void safety(int safe)
+{
+    for(int k=0; k<safe; k++)
     {
-        if (find[k] >= 0)
+        makecpy(k);
+        int cnt = 0;
+        for (int i=0; i<n; i++)
         {
-            for(int i=0; i<n; i++)
+            for (int j=0; j<n; j++)
             {
-                for (int j=0; j<n; j++)
+                if (cpy[i][j] != 0)
                 {
-                    if (arr[i][j] > find[k])
-                    {
-                        dfs(i, j, find[k]);
-                        cnt ++;
-                    }
+                    dfs(i, j);
+                    cnt++;
                 }
             }
-            if (cnt > maxi)
-                maxi = cnt;
         }
+        if (cnt > ans)
+            ans = cnt;
     }
-    printf("%d\n",maxi);
-    
+}
+
+int main()
+{
+    scanf("%d", &n);
+    int arrmax = -1;
+
+    for(int i=0; i<n; i++)
+    {
+        for(int j=0; j<n; j++)
+        {
+            scanf("%d", &arr[i][j]);
+            if (arr[i][j] > arrmax)
+                arrmax = arr[i][j];
+        }
+    }   
+    safety(arrmax);
+    printf("%d\n", ans);
 }
