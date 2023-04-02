@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
+
 long long dp[82];
 int n;
 
