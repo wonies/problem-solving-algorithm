@@ -1,4 +1,4 @@
-//백준 1839 | 설탕배달
+//백준 2839 | 설탕배달
 
 #include <stdio.h>
 #define min(a, b) a < b ? a : b
