@@ -1,3 +1,5 @@
+// 백준 12865 | 평범한 배낭 
+
 #include <stdio.h>
 #define max(a, b) a < b ? b : a
 
