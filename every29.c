@@ -1,3 +1,5 @@
+// 백준 2302 || 극장 좌석
+
 #include <stdio.h>
 
 int dp[41];
