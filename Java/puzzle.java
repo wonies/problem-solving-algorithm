@@ -12,6 +12,7 @@ class puzzle {
         
         int left = 1;
         int right = Arrays.stream(diffs).max().getAsInt();
+        System.out.println("right");
         
         while (left <= right)
         {
