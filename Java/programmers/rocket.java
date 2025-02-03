@@ -1,5 +1,6 @@
+package programmers;
+
 import java.util.*;
-import java.io.*;
 
 class rocket {
     public int solution(int[][] targets) {

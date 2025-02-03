@@ -1,7 +1,4 @@
-//프로그래머스 숫자블록
-
-import java.io.*;
-import java.util.*;
+package programmers;//프로그래머스 숫자블록
 
 class block {
     public int[] solution(long begin, long end) {
@@ -26,7 +23,8 @@ class block {
                 if(num / i <= 10000000) {
                     return (int)(num / i);
                 }
-                if(i <= 10000000) {
+
+                if (i <= 10000000) {
                     divi = i;
                 }
             }

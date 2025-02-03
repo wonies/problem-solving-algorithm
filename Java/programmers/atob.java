@@ -1,4 +1,4 @@
-// BOJ 16953 | A->B
+package programmers;// BOJ 16953 | A->B
 import java.io.*;
 // import java.util.*;
 

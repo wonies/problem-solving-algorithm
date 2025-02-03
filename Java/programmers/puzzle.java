@@ -1,6 +1,5 @@
-//[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지
+package programmers;//[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지
 
-import java.io.*;
 import java.util.*;
 
 class puzzle {
