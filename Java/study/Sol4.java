@@ -21,8 +21,6 @@ class Sol4 {
 		}
 		if (cnt != 0)
 			answer = false;
-
-
 		return answer;
 	}
 }
