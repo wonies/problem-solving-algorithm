@@ -1,3 +1,5 @@
+//학급회장
+
 package inf;
 
 import java.io.*;
@@ -9,16 +11,17 @@ public class Basic32 {
 		int n = Integer.parseInt(br.readLine());
 		String input = br.readLine();
 		char ans = ' ';
-
-		HashMap<Character, Integer> map = new HashMap<>();
-		for (char c :  input.toCharArray()){
-			map.put(c, map.getOrDefault(c, 0) + 1);
+		HashMap<Character, Integer> hash = new HashMap<>();
+		for (char c : input.toCharArray())
+		{
+			hash.put(c, hash.getOrDefault(c, 0) + 1);
 		}
 		int max = Integer.MIN_VALUE;
-		for (char c : map.keySet()){
-			if (map.get(c) > max){
-				max = map.get(c);
-				ans =  c;
+		for (char c : hash.keySet()){
+			int val = hash.get(c);
+			if (max < val) {
+				max = val;
+				ans = c;
 			}
 		}
 		System.out.println(ans);
