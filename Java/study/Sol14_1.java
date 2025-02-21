@@ -1,7 +1,7 @@
 package study;
 //프로그래머스 : N개의 최소공배수_edit
 
-public class Sol14 {
+public class Sol14_1 {
 		private static int gcd(int a, int b)
 		{
 			return b == 0 ? a : gcd(b, a % b);

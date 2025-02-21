@@ -2,7 +2,7 @@ package study;
 
 //프로그래머스: 멀리뛰기_edit
 
-class Sol13 {
+class Sol13_1 {
 	public long solution(int n) {
 		long answer = 0;
 		int [] dp = new int [n+2];
