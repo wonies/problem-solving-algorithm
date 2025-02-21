@@ -1,19 +1,11 @@
 package study;
 //프로그래머스 : N개의 최소공배수
 
-import java.io.*;
-import java.util.*;
+
 public class Sol14 {
 		private static int gcd(int a, int b)
 		{
-			int temp;
-			while (b != 0)
-			{
-				temp = b;
-				b = a % b;
-				a = temp;
-			}
-			return a;
+			return b == 0 ? a : gcd(b, a % b);
 		}
 
 		private static int lcm(int a, int b){
