@@ -1,6 +1,6 @@
 package study;
 
-//프로그래머스: 멀리뛰기
+//프로그래머스: 멀리뛰기_edit
 
 class Sol13 {
 	public long solution(int n) {
@@ -17,7 +17,6 @@ class Sol13 {
 		{
 			dp[i] = (dp[i-1] + dp[i-2]) % 1234567;
 		}
-
 		return dp[n];
 	}
 }
