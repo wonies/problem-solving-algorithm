@@ -1,5 +1,5 @@
 package study;
-
+//프로그래머스 : N개의 최소공배수
 
 import java.io.*;
 import java.util.*;
