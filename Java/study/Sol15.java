@@ -1,6 +1,7 @@
 package study;
-//영어 끝말잇기
-import java.io.*;
+
+// 영어끝말잇기
+
 import java.util.*;
 
 public class Sol15 {
@@ -21,7 +22,7 @@ public class Sol15 {
 			if (words[i-1].charAt(words[i-1].length()-1) != words[i].charAt(0)) {
 
 				answer[0] = ((i + 1) % n == 0) ? n : (i + 1) % n;
-				answer[1] = (i / n)+  1;
+				answer[1] = (i / n) +  1;
 				return answer;
 			}
 			check = checkValid(words, words[i], i);

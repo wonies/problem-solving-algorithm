@@ -1,35 +1,36 @@
 package study;
-// 귤고르기
 
 import java.util.*;
 
-public class Sol16 {
+public class Sol16_1 {
 	public static int solution(int k, int[] numbers) {
-		int answer = 0;
-		HashMap<Integer, Integer> counts = new HashMap<>();
 
-		for (int num : numbers)
-			counts.put(num, counts.getOrDefault(num, 0) + 1);
-
-		ArrayList<Map.Entry<Integer, Integer>> list = new ArrayList<>(counts.entrySet());
-		Collections.sort(list, (a, b) -> b.getValue().compareTo(a.getValue()));
+		int max = Integer.MIN_VALUE;
+		for (int size : numbers)
+			max = Math.max(max, size);
+		int [] tans = new int [max + 1];
+		for (int i : numbers)
+			tans[i]++;
+		int[] counts = new int[tans.length + 1];
+		for (int tan : tans){
+			if (tan > 0)
+				counts[tan]++;
+		}
 
 		int cnt = 0;
+		int tot = 0;
 
-		for (Map.Entry<Integer, Integer> entry : list)
+		for (int i=counts.length-1; i>0; i--)
 		{
-
-			if (k - entry.getValue() >= 0)
+			while (counts[i] > 0 && tot < k)
 			{
+				tot += i;
 				cnt++;
-				k -= entry.getValue();
+				counts[i]--;
 			}
-			else if (entry.getValue() > k && k > 0)
-			{
-				cnt++;
-				return cnt;
-			}
+			if (tot >= k) break;
 		}
+
 		return cnt;
 	}
 
