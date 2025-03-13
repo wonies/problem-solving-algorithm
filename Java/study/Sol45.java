@@ -1,6 +1,6 @@
 package study;
 
-//택배상자
+//택배상자ㅈ
 import java.io.*;
 import java.util.*;
 

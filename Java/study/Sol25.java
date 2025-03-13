@@ -1,7 +1,5 @@
 package study;
-
 //1차캐시
-
 import java.util.*;
 
 class Sol25 {
