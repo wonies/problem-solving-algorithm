@@ -77,7 +77,7 @@
 
 📂 /algo-challenge/inf-problem-solving
 
-A space to organize problems I’ve solved on my own.ㅊ
+A space to organize problems I’ve solved on my own.
 
 ## 👤 개인 연습: [inf-problem-solving](https://github.com/wonies/inf-problem-solving)
 
@@ -97,3 +97,105 @@ A space to organize problems I’ve solved on my own.ㅊ
 - 하루에 한 문제라도, **끊이지 않고** 풀기
 - **스터디 + 개인 연습 병행**으로 폭넓은 실력 향상
 - 문제 풀이 → 코드 리뷰 → 회고까지, **완전 학습 루프**
+
+
+
+
+# 🌱 Programmers Coding Test Challenge  
+A steady journey of growing our algorithm skills 🚀  
+Each line of code we write today builds the future we want tomorrow!  
+This space is dedicated to solving algorithm problems together as a study group, and also individually as daily practice.
+
+---
+
+## 🗓️ Start Dates  
+- **Java Challenge**: February 15, 2025 ~  
+- **C Challenge**: November 2022 ~ February 2023 (completed)
+
+---
+
+## 🎯 Goals  
+- Practice algorithm problems based on the [Programmers](https://school.programmers.co.kr/) platform  
+- Solve 1–2 problems daily for consistent growth  
+- Adjust difficulty based on problem success rate  
+- Code review and feedback for mutual improvement  
+- Strengthen problem-solving skills through consistency and collaboration
+
+---
+
+## 💻 Study Format  
+
+### 📌 Programmers Challenge in JAVA  
+📁 `/algo-challenge/programmers-problem-solving`  
+📝 Language: Java  
+🧩 Difficulty: Level 2 and above  
+
+**Rules:**  
+- Success rate below 60% → 1 problem/day  
+- Success rate above 60% → 2 problems/day  
+- Code review is **mandatory**
+
+**Participants:**  
+- wonies  
+- EUNWOOLEEE  
+- smwkbgmn  
+- DongwookHong  
+- KichanLee  
+
+---
+
+### 📌 C Challenge in the Past (no longer active)  
+📁 `/algo-before-challenge/programmers-challege-in-c`  
+📝 Language: C  
+
+**Level 1:**  
+- Duration: 19 days  
+- 1–2 problems per day based on success rate  
+
+**Level 2:**  
+- Duration: 24 days  
+- 1 problem/day  
+- Code review is **mandatory**
+
+**Participants:**  
+- wonies  
+- EUNWOOLEEE  
+- JeisaNewbie  
+- DongwookHong  
+- KichanLee  
+
+---
+
+## 🌟 Quote  
+> “If you want to go fast, go alone.  
+> If you want to go far, go together.”  
+> Let's solve one problem today that builds our skills for tomorrow.  
+> Daily effort creates extraordinary results. 🚴‍♀️
+
+---
+
+## 🐳 Personal Practice  
+📁 `/algo-challenge/inf-problem-solving`
+
+This is my personal space for solving algorithm problems independently.
+
+### 👤 Personal Practice: `inf-problem-solving`  
+Based on INF Algorithm lectures  
+Mainly solved in Java  
+Focus on understanding the problem and writing clean core logic  
+
+📒 This is my personal notebook for:  
+- Reviewing key concepts  
+- Checking my problem-solving ability  
+- Tracking growth over time  
+
+**Structure Example:**  
+- Organized by data structure: `String/`, `Array/`, `HashMap/`, etc.  
+- Each problem includes solution + key notes
+
+---
+
+## 🌟 Personal Goal  
+Solve at least **one problem a day** — consistency is key!  
+Balancing both **study group problems** and **personal practice**  
+→ Problem Solving → Code Review → Reflection = Full Learning Cycle ✅
