@@ -1,9 +1,6 @@
 //서버증설횟수. sol68
 
-import java.io.*;
-import java.util.*;
-
-class Solution {
+class Sol68 {
 	public int solution(int[] players, int m, int k) {
 		int cnt = 0;
 		int len = players.length;

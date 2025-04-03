@@ -3,7 +3,6 @@ import java.util.*;
 // 71번째, 메뉴리뉴얼 문제
 
 class Sol {
-
 	public static void combi(String order, int target, int start, int depth, StringBuilder sb, Map<String, Integer> res)
 	{
 		if (depth == target)
@@ -54,5 +53,4 @@ class Sol {
 		String[] res = solution(orders, courses);
 		System.out.println(Arrays.toString(res));
 	}
-
 }

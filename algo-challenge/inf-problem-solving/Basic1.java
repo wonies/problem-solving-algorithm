@@ -1,5 +1,3 @@
-package inf;
-
 import java.io.*;
 
 public class Basic1 {

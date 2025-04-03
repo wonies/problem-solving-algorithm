@@ -1,4 +1,3 @@
-package inf;
 
 import java.util.*;
 import java.io.*;

@@ -1,6 +1,6 @@
 // 숫자카드나누기
 
-class Solution {
+class Sol69_1 {
 
 	public int gcd(int a, int b)
 	{
