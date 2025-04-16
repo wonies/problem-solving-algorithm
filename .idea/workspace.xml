@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-&lt;sol72.배달&gt;">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps-algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/inf-problem-solving/Basic1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/inf-problem-solving/Basic1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/inf-problem-solving/Basic3.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/inf-problem-solving/Basic3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol64_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol64_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol69.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol69_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol69_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol71.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/서버증설횟수.java" beforeDir="false" />
+    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-&lt;sol85.우박수열 정적분&gt;">
+      <change afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol85.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol85.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sol.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +51,11 @@
     &quot;Application.Basic3.executor&quot;: &quot;Run&quot;,
     &quot;Application.Combination.executor&quot;: &quot;Run&quot;,
     &quot;Application.LRUCache.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutation.executor&quot;: &quot;Run&quot;,
     &quot;Application.RunCombination.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sol.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sol64_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sol85.executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
     &quot;Application.study.Sol64_1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -114,6 +103,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="ps-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,7 +187,13 @@
       <item itemvalue="Application.LRUCache" />
       <item itemvalue="Application.Sol64_1" />
       <item itemvalue="Application.study.Sol64_1" />
+      <item itemvalue="Application.Permutation" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Permutation" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -216,6 +218,20 @@
       <workItem from="1743481983459" duration="1330000" />
       <workItem from="1743483321174" duration="10042000" />
       <workItem from="1743578590543" duration="314000" />
+      <workItem from="1743664459799" duration="161000" />
+      <workItem from="1743670206869" duration="2441000" />
+      <workItem from="1743770602276" duration="1827000" />
+      <workItem from="1743835596437" duration="5080000" />
+      <workItem from="1743946133500" duration="660000" />
+      <workItem from="1744123969012" duration="2523000" />
+      <workItem from="1744207704501" duration="3000" />
+      <workItem from="1744274668280" duration="2088000" />
+      <workItem from="1744452217756" duration="889000" />
+      <workItem from="1744459879451" duration="748000" />
+      <workItem from="1744534099066" duration="90000" />
+      <workItem from="1744553392178" duration="1000" />
+      <workItem from="1744641177988" duration="81000" />
+      <workItem from="1744732663209" duration="1836000" />
     </task>
     <task id="LOCAL-00001" summary="programmers-&lt;sol68.서버증설횟수&gt;">
       <option name="closed" value="true" />
@@ -265,7 +281,135 @@
       <option name="project" value="LOCAL" />
       <updated>1743578664582</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="programmers-&lt;sol73.방금그곡&gt;">
+      <option name="closed" value="true" />
+      <created>1743664513136</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743664513136</updated>
+    </task>
+    <task id="LOCAL-00008" summary="remainder">
+      <option name="closed" value="true" />
+      <created>1743664534245</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743664534245</updated>
+    </task>
+    <task id="LOCAL-00009" summary="remainder">
+      <option name="closed" value="true" />
+      <created>1743664541659</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743664541659</updated>
+    </task>
+    <task id="LOCAL-00010" summary="programmers-&lt;sol74.무인도여행&gt;">
+      <option name="closed" value="true" />
+      <created>1743770624373</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743770624373</updated>
+    </task>
+    <task id="LOCAL-00011" summary="programmers-&lt;sol75.줄서는방법&gt;">
+      <option name="closed" value="true" />
+      <created>1743842153556</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743842153556</updated>
+    </task>
+    <task id="LOCAL-00012" summary="programmers-&lt;sol76.올바른괄호&gt;">
+      <option name="closed" value="true" />
+      <created>1743946182879</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743946182879</updated>
+    </task>
+    <task id="LOCAL-00013" summary="programmers-&lt;sol77.행렬테두리회전하기&gt;">
+      <option name="closed" value="true" />
+      <created>1744124006279</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744124006279</updated>
+    </task>
+    <task id="LOCAL-00014" summary="programmers-&lt;sol77.행렬테두리회전하기&gt;">
+      <option name="closed" value="true" />
+      <created>1744125991781</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744125991781</updated>
+    </task>
+    <task id="LOCAL-00015" summary="programmers-&lt;sol78.리코쳇로봇&gt;">
+      <option name="closed" value="true" />
+      <created>1744199399404</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744199399404</updated>
+    </task>
+    <task id="LOCAL-00016" summary="programmers-&lt;sol79.테이블 해시함수&gt;">
+      <option name="closed" value="true" />
+      <created>1744274713359</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744274713359</updated>
+    </task>
+    <task id="LOCAL-00017" summary="programmers-&lt;sol80.디펜스게임&gt;">
+      <option name="closed" value="true" />
+      <created>1744452267703</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1744452267703</updated>
+    </task>
+    <task id="LOCAL-00018" summary="programmers-&lt;sol81.거리두기 확인하기&gt;">
+      <option name="closed" value="true" />
+      <created>1744459679678</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744459679678</updated>
+    </task>
+    <task id="LOCAL-00019" summary="programmers-&lt;sol82.가장 큰 정사각형 찾기&gt;">
+      <option name="closed" value="true" />
+      <created>1744461947593</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1744461947593</updated>
+    </task>
+    <task id="LOCAL-00020" summary="programmers-&lt;sol84.하노이의탑&gt;">
+      <option name="closed" value="true" />
+      <created>1744641222121</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1744641222121</updated>
+    </task>
+    <task id="LOCAL-00021" summary="programmers-&lt;sol85.우박수열 정적분&gt;">
+      <option name="closed" value="true" />
+      <created>1744770548331</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744770548331</updated>
+    </task>
+    <task id="LOCAL-00022" summary="programmers-&lt;sol85.우박수열 정적분&gt;">
+      <option name="closed" value="true" />
+      <created>1744770626639</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744770626639</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +421,19 @@
     <MESSAGE value="programmers-&lt;sol70.미로탈출&gt;" />
     <MESSAGE value="programmers-&lt;sol71.메뉴리뉴얼&gt;" />
     <MESSAGE value="programmers-&lt;sol72.배달&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="programmers-&lt;sol72.배달&gt;" />
+    <MESSAGE value="programmers-&lt;sol73.방금그곡&gt;" />
+    <MESSAGE value="remainder" />
+    <MESSAGE value="programmers-&lt;sol74.무인도여행&gt;" />
+    <MESSAGE value="programmers-&lt;sol75.줄서는방법&gt;" />
+    <MESSAGE value="programmers-&lt;sol76.올바른괄호&gt;" />
+    <MESSAGE value="programmers-&lt;sol77.행렬테두리회전하기&gt;" />
+    <MESSAGE value="programmers-&lt;sol78.리코쳇로봇&gt;" />
+    <MESSAGE value="programmers-&lt;sol79.테이블 해시함수&gt;" />
+    <MESSAGE value="programmers-&lt;sol80.디펜스게임&gt;" />
+    <MESSAGE value="programmers-&lt;sol81.거리두기 확인하기&gt;" />
+    <MESSAGE value="programmers-&lt;sol82.가장 큰 정사각형 찾기&gt;" />
+    <MESSAGE value="programmers-&lt;sol84.하노이의탑&gt;" />
+    <MESSAGE value="programmers-&lt;sol85.우박수열 정적분&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="programmers-&lt;sol85.우박수열 정적분&gt;" />
   </component>
 </project>
