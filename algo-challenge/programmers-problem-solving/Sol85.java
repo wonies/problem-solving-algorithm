@@ -47,4 +47,3 @@ class Sol85 {
 		return ans;
 	}
 }
-
