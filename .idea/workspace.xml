@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="edit" />
+    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-sql&lt;평균일일요금구하기&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -255,7 +255,7 @@
       <workItem from="1747406613515" duration="653000" />
       <workItem from="1747409008989" duration="286000" />
       <workItem from="1748344394958" duration="1000" />
-      <workItem from="1748419042842" duration="804000" />
+      <workItem from="1748419042842" duration="1447000" />
     </task>
     <task id="LOCAL-00001" summary="programmers-&lt;sol68.서버증설횟수&gt;">
       <option name="closed" value="true" />
@@ -625,14 +625,21 @@
       <option name="project" value="LOCAL" />
       <updated>1748419329569</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="programmers-sql&lt;평균일일요금구하기&gt;">
+      <option name="closed" value="true" />
+      <created>1748419888408</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1748419888408</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="programmers-&lt;sol85.우박수열 정적분&gt;" />
     <MESSAGE value="programmers-&lt;sol86.멀쩡한 사각형&gt;" />
     <MESSAGE value="programmers-&lt;&gt;" />
     <MESSAGE value="programmers-&lt;86.멀쩡한 사각형&gt;" />
@@ -657,6 +664,7 @@
     <MESSAGE value="programmers-&lt;104.아날로그시계&gt;" />
     <MESSAGE value="programmers-sql&lt;1.과일로 만든 아이스크림 고르기&gt;" />
     <MESSAGE value="edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit" />
+    <MESSAGE value="programmers-sql&lt;평균일일요금구하기&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="programmers-sql&lt;평균일일요금구하기&gt;" />
   </component>
 </project>
