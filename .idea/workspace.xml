@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-&lt;104.아날로그시계&gt;">
-      <change afterPath="$PROJECT_DIR$/sql/1.과일로만든아이스크림" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="edit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,10 @@
     &quot;accountId&quot;: &quot;ac7cdb4f-2875-4f1d-af73-03eaf8f592c9&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -254,7 +255,7 @@
       <workItem from="1747406613515" duration="653000" />
       <workItem from="1747409008989" duration="286000" />
       <workItem from="1748344394958" duration="1000" />
-      <workItem from="1748419042842" duration="213000" />
+      <workItem from="1748419042842" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="programmers-&lt;sol68.서버증설횟수&gt;">
       <option name="closed" value="true" />
@@ -608,15 +609,29 @@
       <option name="project" value="LOCAL" />
       <updated>1747406659101</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="programmers-sql&lt;1.과일로 만든 아이스크림 고르기&gt;">
+      <option name="closed" value="true" />
+      <created>1748419311416</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1748419311416</updated>
+    </task>
+    <task id="LOCAL-00046" summary="edit">
+      <option name="closed" value="true" />
+      <created>1748419329569</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1748419329569</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="programmers-&lt;sol82.가장 큰 정사각형 찾기&gt;" />
-    <MESSAGE value="programmers-&lt;sol84.하노이의탑&gt;" />
     <MESSAGE value="programmers-&lt;sol85.우박수열 정적분&gt;" />
     <MESSAGE value="programmers-&lt;sol86.멀쩡한 사각형&gt;" />
     <MESSAGE value="programmers-&lt;&gt;" />
@@ -640,6 +655,8 @@
     <MESSAGE value="programmers-&lt;102.도넛과 막대 그래프&gt;" />
     <MESSAGE value="programmers-&lt;103.빛의경로사이클&gt;" />
     <MESSAGE value="programmers-&lt;104.아날로그시계&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="programmers-&lt;104.아날로그시계&gt;" />
+    <MESSAGE value="programmers-sql&lt;1.과일로 만든 아이스크림 고르기&gt;" />
+    <MESSAGE value="edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit" />
   </component>
 </project>
