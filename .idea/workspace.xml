@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-&lt;sol85.우박수열 정적분&gt;">
-      <change afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol83.java" afterDir="false" />
+    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-&lt;104.아날로그시계&gt;">
+      <change afterPath="$PROJECT_DIR$/sql/1.과일로만든아이스크림" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol85.java" beforeDir="false" afterPath="$PROJECT_DIR$/algo-challenge/programmers-problem-solving/Sol85.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sol.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,36 +42,41 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Basic1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basic3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Combination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LRUCache.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Permutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunCombination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sol.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sol64_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sol85.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.study.Sol64_1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/wonie/ps-algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Basic1.executor": "Run",
+    "Application.Basic3.executor": "Run",
+    "Application.Combination.executor": "Run",
+    "Application.LRUCache.executor": "Run",
+    "Application.Permutation.executor": "Run",
+    "Application.RunCombination.executor": "Run",
+    "Application.Sol.executor": "Run",
+    "Application.Sol64_1.executor": "Run",
+    "Application.Sol85.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.study.Sol64_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/wonie/ps-algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algo-challenge/programmers-problem-solving" />
@@ -182,9 +185,9 @@
     </configuration>
     <list>
       <item itemvalue="Application.Basic3" />
-      <item itemvalue="Application.RunCombination" />
       <item itemvalue="Application.Combination (1)" />
       <item itemvalue="Application.LRUCache" />
+      <item itemvalue="Application.RunCombination" />
       <item itemvalue="Application.Sol64_1" />
       <item itemvalue="Application.study.Sol64_1" />
       <item itemvalue="Application.Permutation" />
@@ -232,6 +235,26 @@
       <workItem from="1744553392178" duration="1000" />
       <workItem from="1744641177988" duration="81000" />
       <workItem from="1744732663209" duration="1836000" />
+      <workItem from="1744802898836" duration="769000" />
+      <workItem from="1745419155792" duration="46000" />
+      <workItem from="1745564107460" duration="946000" />
+      <workItem from="1745836890081" duration="1290000" />
+      <workItem from="1745849498461" duration="3000" />
+      <workItem from="1746107522979" duration="671000" />
+      <workItem from="1746191072756" duration="38000" />
+      <workItem from="1746281581279" duration="79000" />
+      <workItem from="1746368180890" duration="1604000" />
+      <workItem from="1746626057472" duration="670000" />
+      <workItem from="1746714744928" duration="45000" />
+      <workItem from="1746797868353" duration="2704000" />
+      <workItem from="1746981359691" duration="49000" />
+      <workItem from="1747059314379" duration="47000" />
+      <workItem from="1747232386094" duration="34000" />
+      <workItem from="1747321060292" duration="46000" />
+      <workItem from="1747406613515" duration="653000" />
+      <workItem from="1747409008989" duration="286000" />
+      <workItem from="1748344394958" duration="1000" />
+      <workItem from="1748419042842" duration="213000" />
     </task>
     <task id="LOCAL-00001" summary="programmers-&lt;sol68.서버증설횟수&gt;">
       <option name="closed" value="true" />
@@ -409,31 +432,214 @@
       <option name="project" value="LOCAL" />
       <updated>1744770626639</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="programmers-&lt;sol86.멀쩡한 사각형&gt;">
+      <option name="closed" value="true" />
+      <created>1744802942823</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744802942823</updated>
+    </task>
+    <task id="LOCAL-00024" summary="programmers-&lt;&gt;">
+      <option name="closed" value="true" />
+      <created>1744802988669</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744802988669</updated>
+    </task>
+    <task id="LOCAL-00025" summary="programmers-&lt;85.우박수열정적분&gt;">
+      <option name="closed" value="true" />
+      <created>1744803058182</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1744803058182</updated>
+    </task>
+    <task id="LOCAL-00026" summary="programmers-&lt;87.Nqueen&gt;">
+      <option name="closed" value="true" />
+      <created>1745419192037</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1745419192037</updated>
+    </task>
+    <task id="LOCAL-00027" summary="programmers-&lt;88.두 원 사이의 정수합&gt;">
+      <option name="closed" value="true" />
+      <created>1745564841616</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1745564841616</updated>
+    </task>
+    <task id="LOCAL-00028" summary="programmers-&lt;89.요격시스템&gt;">
+      <option name="closed" value="true" />
+      <created>1745836925434</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1745836925434</updated>
+    </task>
+    <task id="LOCAL-00029" summary="programmers-&lt;90.혼자놀기의 달인&gt;">
+      <option name="closed" value="true" />
+      <created>1745849362671</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1745849362671</updated>
+    </task>
+    <task id="LOCAL-00030" summary="programmers-&lt;91.조이스틱&gt;">
+      <option name="closed" value="true" />
+      <created>1746107577163</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1746107577163</updated>
+    </task>
+    <task id="LOCAL-00031" summary="programmers-&lt;92.양궁대회&gt;">
+      <option name="closed" value="true" />
+      <created>1746191102042</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1746191102042</updated>
+    </task>
+    <task id="LOCAL-00032" summary="programmers-&lt;93.택배배달수거하기&gt;">
+      <option name="closed" value="true" />
+      <created>1746281651734</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1746281651734</updated>
+    </task>
+    <task id="LOCAL-00033" summary="programmers-&lt;94.지게차와 크레인&gt;">
+      <option name="closed" value="true" />
+      <created>1746368231883</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1746368231883</updated>
+    </task>
+    <task id="LOCAL-00034" summary="programmers-&lt;94.지게차와 크레인&gt;">
+      <option name="closed" value="true" />
+      <created>1746368309883</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1746368309883</updated>
+    </task>
+    <task id="LOCAL-00035" summary="programmers-&lt;95.지게차와 크레인&gt;">
+      <option name="closed" value="true" />
+      <created>1746368368013</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1746368368013</updated>
+    </task>
+    <task id="LOCAL-00036" summary="programmers-&lt;96.순위검색&gt;">
+      <option name="closed" value="true" />
+      <created>1746448934862</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1746448934862</updated>
+    </task>
+    <task id="LOCAL-00037" summary="programmers-&lt;97.충돌위험찾기&gt;">
+      <option name="closed" value="true" />
+      <created>1746626110690</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1746626110690</updated>
+    </task>
+    <task id="LOCAL-00038" summary="programmers-&lt;98.3xn타일링&gt;">
+      <option name="closed" value="true" />
+      <created>1746714782781</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1746714782781</updated>
+    </task>
+    <task id="LOCAL-00039" summary="programmers-&lt;99.카카오북 프렌즈북&gt;">
+      <option name="closed" value="true" />
+      <created>1746797899006</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1746797899006</updated>
+    </task>
+    <task id="LOCAL-00040" summary="programmers-&lt;100.단체 사진 찍기&gt;">
+      <option name="closed" value="true" />
+      <created>1746981397230</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1746981397230</updated>
+    </task>
+    <task id="LOCAL-00041" summary="programmers-&lt;101.유사 칸토열 비트열&gt;">
+      <option name="closed" value="true" />
+      <created>1747059349730</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1747059349730</updated>
+    </task>
+    <task id="LOCAL-00042" summary="programmers-&lt;102.도넛과 막대 그래프&gt;">
+      <option name="closed" value="true" />
+      <created>1747232412791</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1747232412791</updated>
+    </task>
+    <task id="LOCAL-00043" summary="programmers-&lt;103.빛의경로사이클&gt;">
+      <option name="closed" value="true" />
+      <created>1747321094751</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1747321094751</updated>
+    </task>
+    <task id="LOCAL-00044" summary="programmers-&lt;104.아날로그시계&gt;">
+      <option name="closed" value="true" />
+      <created>1747406659101</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1747406659101</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="programmers-&lt;sol68.서버증설횟수&gt;" />
-    <MESSAGE value="programmers-&lt;sol69.숫자카드나누기&gt;" />
-    <MESSAGE value="programmers-&lt;sol70.미로탈출&gt;" />
-    <MESSAGE value="programmers-&lt;sol71.메뉴리뉴얼&gt;" />
-    <MESSAGE value="programmers-&lt;sol72.배달&gt;" />
-    <MESSAGE value="programmers-&lt;sol73.방금그곡&gt;" />
-    <MESSAGE value="remainder" />
-    <MESSAGE value="programmers-&lt;sol74.무인도여행&gt;" />
-    <MESSAGE value="programmers-&lt;sol75.줄서는방법&gt;" />
-    <MESSAGE value="programmers-&lt;sol76.올바른괄호&gt;" />
-    <MESSAGE value="programmers-&lt;sol77.행렬테두리회전하기&gt;" />
-    <MESSAGE value="programmers-&lt;sol78.리코쳇로봇&gt;" />
-    <MESSAGE value="programmers-&lt;sol79.테이블 해시함수&gt;" />
-    <MESSAGE value="programmers-&lt;sol80.디펜스게임&gt;" />
-    <MESSAGE value="programmers-&lt;sol81.거리두기 확인하기&gt;" />
     <MESSAGE value="programmers-&lt;sol82.가장 큰 정사각형 찾기&gt;" />
     <MESSAGE value="programmers-&lt;sol84.하노이의탑&gt;" />
     <MESSAGE value="programmers-&lt;sol85.우박수열 정적분&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="programmers-&lt;sol85.우박수열 정적분&gt;" />
+    <MESSAGE value="programmers-&lt;sol86.멀쩡한 사각형&gt;" />
+    <MESSAGE value="programmers-&lt;&gt;" />
+    <MESSAGE value="programmers-&lt;86.멀쩡한 사각형&gt;" />
+    <MESSAGE value="programmers-&lt;85.우박수열정적분&gt;" />
+    <MESSAGE value="programmers-&lt;87.Nqueen&gt;" />
+    <MESSAGE value="programmers-&lt;88.두 원 사이의 정수합&gt;" />
+    <MESSAGE value="programmers-&lt;89.요격시스템&gt;" />
+    <MESSAGE value="programmers-&lt;90.혼자놀기의 달인&gt;" />
+    <MESSAGE value="programmers-&lt;91.조이스틱&gt;" />
+    <MESSAGE value="programmers-&lt;92.양궁대회&gt;" />
+    <MESSAGE value="programmers-&lt;93.택배배달수거하기&gt;" />
+    <MESSAGE value="programmers-&lt;94.지게차와 크레인&gt;" />
+    <MESSAGE value="programmers-&lt;95.지게차와 크레인&gt;" />
+    <MESSAGE value="programmers-&lt;96.순위검색&gt;" />
+    <MESSAGE value="programmers-&lt;97.충돌위험찾기&gt;" />
+    <MESSAGE value="programmers-&lt;98.3xn타일링&gt;" />
+    <MESSAGE value="programmers-&lt;99.카카오북 프렌즈북&gt;" />
+    <MESSAGE value="programmers-&lt;100.단체 사진 찍기&gt;" />
+    <MESSAGE value="programmers-&lt;101.유사 칸토열 비트열&gt;" />
+    <MESSAGE value="programmers-&lt;102.도넛과 막대 그래프&gt;" />
+    <MESSAGE value="programmers-&lt;103.빛의경로사이클&gt;" />
+    <MESSAGE value="programmers-&lt;104.아날로그시계&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="programmers-&lt;104.아날로그시계&gt;" />
   </component>
 </project>
