@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-sql">
-      <change afterPath="$PROJECT_DIR$/sql/level2/21. 물고기 종류별 잡은 수 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/22. 연도 별 평균 미세먼지 농도 조회하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/23. 루트 아이템 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/24. 월별 잡은 물고기 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/25.조건에 부합하는 중고거래 상태 조회하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/26.조건에 맞는 사원 정보 조회하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/27. 특정 물고기를 잡은 총 수 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/28. 재구매가 일어난 상품과 회원 리스트 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/29. 자동차 평균 대여기간 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/30. 노선별 평균 역 사이 거리 조회하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/32. 업그레이드 된 아이템 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/33. 연도별 대장균 크기의 편차 구하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -271,15 +263,7 @@
       <workItem from="1748517804141" duration="4042000" />
       <workItem from="1748850701239" duration="1021000" />
       <workItem from="1748856190191" duration="5476000" />
-      <workItem from="1749016893890" duration="16148000" />
-    </task>
-    <task id="LOCAL-00004" summary="programmers-&lt;sol70.미로탈출&gt;">
-      <option name="closed" value="true" />
-      <created>1743398281724</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1743398281724</updated>
+      <workItem from="1749016893890" duration="17433000" />
     </task>
     <task id="LOCAL-00005" summary="programmers-&lt;sol71.메뉴리뉴얼&gt;">
       <option name="closed" value="true" />
@@ -665,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749042353127</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="programmers-sql">
+      <option name="closed" value="true" />
+      <created>1749118089042</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1749118089042</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
