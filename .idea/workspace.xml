@@ -5,55 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-sql">
-      <change afterPath="$PROJECT_DIR$/sql/level2/1. 동물 수 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/10. 중성화 여부 파악하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/11. 진료과별 총 예약 횟수 출력하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/12. 고양이와 개는 몇 마리 있을까.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/13.입양 시각 구하기(1).sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/14. 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/15. 조건에 맞는 도서와 저자 리스트 출력하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/16. 성분으로 구분한 아이스크림 총 주문량.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/17. 상품 별 오프라인 매출 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/18. 3월에 태어난 여성 회원 목록 출력하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/19. 루시와 엘라 찾기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/20. 가격대 별 상품개수구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/3. 최솟값구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/4. 동명 동물 수 찾기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/5. 이름에 el이 들어가는 동물 찾기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/6. NULL처리하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/7. DATETIME에서 DATA로 형변환.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/8. 카테고리별 상품 개수 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level2/9.조건에 맞는 아이템들의 가격의 총합구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/21. 물고기 종류별 잡은 수 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/22. 연도 별 평균 미세먼지 농도 조회하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/23. 루트 아이템 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/24. 월별 잡은 물고기 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/25.조건에 부합하는 중고거래 상태 조회하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/26.조건에 맞는 사원 정보 조회하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/27. 특정 물고기를 잡은 총 수 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/28. 재구매가 일어난 상품과 회원 리스트 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/29. 자동차 평균 대여기간 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level2/30. 노선별 평균 역 사이 거리 조회하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/1.과일로만든아이스크림.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/10.역순정렬하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/11.모든 레코드 조회하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/12.조건에 맞는 회원수 구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/13.여러기준으로 정렬하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/14.가장 큰 물고기 10마리 구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/15.어린 동물찾기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/16.이름이 없는 동물의 아이디.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/17.동물의 아이디와 이름.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/18.상위 n개 레코드.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/19.이름이 있는 동물의 아이디.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/2.평균일일요금구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/20.최대값 구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/21.경기도에 위치한 식품창고 목록 출력하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/22.나이 정보가 없는 회원 수 구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/23.가장비싼 상품구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/24.잔챙이 잡은 수 구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/25.특정형질을 가지고 있는 대장균 찾기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/26.잡은 물고기의 평균 길이 구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/27.잡은 물고기 중 가장 큰 물고기의 길이 구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/28.자동차 대여 기록에서 장기 단기 대여 구분하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/29.한 해에 잡은 물고기 수 구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/3.조건에맞는도서구하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/30.특정 옵션이 추가된 자동차 구매하기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/4.파이썬개발자찾기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/6.인기있는 아이스크림.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/7.아픈 동물 찾기.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/8.흉부외과 또는 일반외과 의사 목록 출력.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/9.강원도에 위치한 생산공장 목록 출력하기.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,23 +271,7 @@
       <workItem from="1748517804141" duration="4042000" />
       <workItem from="1748850701239" duration="1021000" />
       <workItem from="1748856190191" duration="5476000" />
-      <workItem from="1749016893890" duration="9107000" />
-    </task>
-    <task id="LOCAL-00002" summary="programmers-&lt;sol69.숫자카드나누기&gt;">
-      <option name="closed" value="true" />
-      <created>1743259389444</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1743259389444</updated>
-    </task>
-    <task id="LOCAL-00003" summary="programmers-&lt;sol70.미로탈출&gt;">
-      <option name="closed" value="true" />
-      <created>1743397964446</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743397964446</updated>
+      <workItem from="1749016893890" duration="16148000" />
     </task>
     <task id="LOCAL-00004" summary="programmers-&lt;sol70.미로탈출&gt;">
       <option name="closed" value="true" />
@@ -703,7 +649,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748863223485</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="programmers-sql">
+      <option name="closed" value="true" />
+      <created>1749036700290</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1749036700291</updated>
+    </task>
+    <task id="LOCAL-00052" summary="programmers-sql">
+      <option name="closed" value="true" />
+      <created>1749042353127</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1749042353127</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
