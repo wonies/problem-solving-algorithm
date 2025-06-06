@@ -1,0 +1,9 @@
+# 동물의 아이디, 이름 조회
+# 결과는 보호 시작일이 빠른 순으로 조회해야함
+
+SELECT a.ANIMAL_ID, a.NAME
+FROM ANIMAL_INS as a
+JOIN ANIMAL_OUTS as b
+ON a.ANIMAL_ID = b.ANIMAL_ID
+WHERE a.DATETIME > b.DATETIME
+ORDER BY a.DATETIME
