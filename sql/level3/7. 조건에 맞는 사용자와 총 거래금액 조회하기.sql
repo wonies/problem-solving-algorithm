@@ -1,0 +1,10 @@
+# 중고거래의 총금액이 70만원 이상인 사람의 회원 id, 닉네임, 총거래금액 조회하는 SQL작성
+
+SELECT b.USER_ID, b.NICKNAME, SUM(a.PRICE) as TOTAL_SALES
+FROM USED_GOODS_BOARD as a
+JOIN USED_GOODS_USER as b
+ON b.USER_ID = a.WRITER_ID
+WHERE a.STATUS = 'DONE'
+GROUP BY USER_ID
+HAVING SUM(a.price) >=  700000
+ORDER BY 3

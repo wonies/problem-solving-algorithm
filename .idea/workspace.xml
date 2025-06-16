@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="programmers-sql">
-      <change afterPath="$PROJECT_DIR$/sql/level3/1. 카테고리 별 도서 판매량 집계하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level3/2. 오랜 기간 보호한 동물(1).sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level3/3. 조건별로 분류하여 주문상태 출력하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level3/4. 대여기록이 존재하는 자동차 리스트 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/level3/5. 있었는데요 없었습니다.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/leetcode/1.not-boring-movies.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/leetcode/2.article-views-i.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/leetcode/3.product-sales-analysis-i.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/leetcode/4.combine-two-tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level3/6. 오랜 기간 보호한 동물(2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/level3/7. 조건에 맞는 사용자와 총 거래금액 조회하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,15 +269,11 @@
       <workItem from="1748856190191" duration="5476000" />
       <workItem from="1749016893890" duration="18047000" />
       <workItem from="1749127743204" duration="613000" />
-      <workItem from="1749198716174" duration="3249000" />
-    </task>
-    <task id="LOCAL-00007" summary="programmers-&lt;sol73.방금그곡&gt;">
-      <option name="closed" value="true" />
-      <created>1743664513136</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1743664513136</updated>
+      <workItem from="1749198716174" duration="3261000" />
+      <workItem from="1749211669920" duration="1426000" />
+      <workItem from="1749478715313" duration="4000" />
+      <workItem from="1750083615649" duration="36000" />
+      <workItem from="1750083657888" duration="314000" />
     </task>
     <task id="LOCAL-00008" summary="remainder">
       <option name="closed" value="true" />
@@ -662,7 +659,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749199951734</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="programmers-sql">
+      <option name="closed" value="true" />
+      <created>1749202617213</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1749202617213</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
