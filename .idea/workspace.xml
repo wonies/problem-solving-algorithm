@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="sql">
-      <change afterPath="$PROJECT_DIR$/sql/leetcode/7.Daily-leads-and-Partners.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="10e4774c-43ee-49b7-96c7-d08f6dc2ef17" name="Changes" comment="sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,15 +266,7 @@
       <workItem from="1749478715313" duration="4000" />
       <workItem from="1750083615649" duration="36000" />
       <workItem from="1750083657888" duration="402000" />
-      <workItem from="1750084207806" duration="282000" />
-    </task>
-    <task id="LOCAL-00009" summary="remainder">
-      <option name="closed" value="true" />
-      <created>1743664541659</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1743664541659</updated>
+      <workItem from="1750084207806" duration="876000" />
     </task>
     <task id="LOCAL-00010" summary="programmers-&lt;sol74.무인도여행&gt;">
       <option name="closed" value="true" />
@@ -663,7 +652,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750084048955</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="sql">
+      <option name="closed" value="true" />
+      <created>1750084495067</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1750084495067</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
